@@ -1,0 +1,206 @@
+[
+ {
+  "Código do Curso": 10,
+  "Curso": "Administração",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 11,
+  "Curso": "Análise de Sistemas",
+  "Periodo": "Vespertino",
+  "Professor": "Godofredo"
+ },
+ {
+  "Código do Curso": 12,
+  "Curso": "Arquitetura e Urbanismo",
+  "Periodo": "Diurno",
+  "Professor": "Frederico"
+ },
+ {
+  "Código do Curso": 13,
+  "Curso": "Ciência da Computação",
+  "Periodo": "Diurno",
+  "Professor": "Frederico"
+ },
+ {
+  "Código do Curso": 14,
+  "Curso": "Ciências Contábeis",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 15,
+  "Curso": "Ciências Econômicas",
+  "Periodo": "Vespertino",
+  "Professor": "Lindonaldo"
+ },
+ {
+  "Código do Curso": 16,
+  "Curso": "Comunicação Social",
+  "Periodo": "Noturno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 17,
+  "Curso": "Desenho Industrial",
+  "Periodo": "Noturno",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 18,
+  "Curso": "Direito",
+  "Periodo": "Noturno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 19,
+  "Curso": "Educação Física",
+  "Periodo": "Noturno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 20,
+  "Curso": "Engenharia Civil",
+  "Periodo": "Vespertino",
+  "Professor": "Frederico"
+ },
+ {
+  "Código do Curso": 21,
+  "Curso": "Engenharia de Computação",
+  "Periodo": "Noturno",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 22,
+  "Curso": "Mecatrônica",
+  "Periodo": "Diurno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 23,
+  "Curso": "Engenharia de Produção Mecânica",
+  "Periodo": "Diurno",
+  "Professor": "Lindonaldo"
+ },
+ {
+  "Código do Curso": 24,
+  "Curso": "Engenharia Elétrica",
+  "Periodo": "Vespertino",
+  "Professor": "Godofredo"
+ },
+ {
+  "Código do Curso": 25,
+  "Curso": "Engenharia Química",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 26,
+  "Curso": "Estudos Sociais",
+  "Periodo": "Vespertino",
+  "Professor": "Frederico"
+ },
+ {
+  "Código do Curso": 27,
+  "Curso": "Farmácia e Bioquímica",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 28,
+  "Curso": "Fisioterapia",
+  "Periodo": "Vespertino",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 29,
+  "Curso": "Fonoaudiologia",
+  "Periodo": "Noturno",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 30,
+  "Curso": "História",
+  "Periodo": "Diurno",
+  "Professor": "Lindonaldo"
+ },
+ {
+  "Código do Curso": 31,
+  "Curso": "Letras",
+  "Periodo": "Diurno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 32,
+  "Curso": "Medicina Veterinária",
+  "Periodo": "Noturno",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 33,
+  "Curso": "Marketing",
+  "Periodo": "Diurno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 34,
+  "Curso": "Matemática",
+  "Periodo": "Vespertino",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 35,
+  "Curso": "Moda",
+  "Periodo": "Diurno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 36,
+  "Curso": "Nutrição",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 37,
+  "Curso": "Odontologia",
+  "Periodo": "Vespertino",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 38,
+  "Curso": "Pedagogia",
+  "Periodo": "Diurno",
+  "Professor": "Lucicréia"
+ },
+ {
+  "Código do Curso": 39,
+  "Curso": "Psicologia",
+  "Periodo": "Diurno",
+  "Professor": "Godofredo"
+ },
+ {
+  "Código do Curso": 40,
+  "Curso": "Processamento de Dados",
+  "Periodo": "Noturno",
+  "Professor": "Godofredo"
+ },
+ {
+  "Código do Curso": 41,
+  "Curso": "Propaganda e Marketing",
+  "Periodo": "Vespertino",
+  "Professor": "Geovarzio"
+ },
+ {
+  "Código do Curso": 42,
+  "Curso": "Secretariado Executivo",
+  "Periodo": "Diurno",
+  "Professor": "Godofredo"
+ },
+ {
+  "Código do Curso": 43,
+  "Curso": "Turismo",
+  "Periodo": "Vespertino",
+  "Professor": "Lindonaldo"
+ }
+]
